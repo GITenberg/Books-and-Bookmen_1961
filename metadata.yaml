@@ -1,5 +1,5 @@
 _repo: Books-and-Bookmen_1961
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Literary forgeries and mystifications'
 - !lcsh 'Book collecting'
 - !lcsh 'Books'
+- GITenberg
 tableOfContents: To the Viscountess Wolseley -- Preface -- Elzevirs -- Ballade of
   the Real and Ideal -- Curiosities of Parish Registers -- The Rowfant Books -- To
   F. L. -- Some Japanese Bogie-books -- Ghosts in the Library -- Literary Forgeries
